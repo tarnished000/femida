@@ -1,0 +1,5 @@
+PyQt6==6.11.0
+pandas==2.2.3
+numpy==2.2.6
+openpyxl==3.1.5
+xlrd==2.0.2
